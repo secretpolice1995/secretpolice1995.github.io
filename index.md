@@ -1,13 +1,18 @@
 ## Welcome to Taihua's Homepage
 
-My name is Taihua Shao. I am a Grade 1 PhD student at the National University of Defense Technology (NUDT), Changsha, China, with a major on Information System. 
+<div>
+	<div align=left>
+		<img src="shao.JPG" align=left height=10% width=10% />
+	</div>
+	My name is Taihua Shao. I am a Grade 1 PhD student at the National University of Defense Technology (NUDT), Changsha, China, with a major on Information System.
+	During the master's period, my research topic mainly focuses on natural language processing (NLP) and information retrieval (IR). I have conducted research on question-answering (QA), or more specifically, answer selection in QA. My recent research interest involves Question Answering, Dialogue System as well as Conversational Recommendation.
+</div>
 
-During the master's period, my research topic mainly focuses on natural language processing (NLP) and information retrieval (IR). I have conducted research on question-answering (QA), or more specifically, answer selection in QA. My recent research interest involves Question Answering, Dialogue System as well as Conversational Recommendation.
 
 
 ### EDUCATION
 
-```EDUCATION
+
 1. **National University of Defense Technology**  Changsha, China, Sep 2017 – Dec 2019
 - _Master of Engineering_
 - **Major:** Management Science and Engineering
@@ -20,11 +25,10 @@ During the master's period, my research topic mainly focuses on natural language
 - **Institution:** College of Systems Engineering
 - **Undergraduate Dissertation:** Research on Query Auto-completion Based on Word2Vec Semantic Similarity
 
-```
 
 ### EXPERIENCE
 
-```EXPERIENCE
+
 1. **University of Dundee**  Dundee, UK, Feb 2016 - Jul 2016
 - _International Exchange Student_
 - Funded by the Outstanding Undergraduate International Exchange Program of China Scholarship Council 
@@ -33,11 +37,9 @@ During the master's period, my research topic mainly focuses on natural language
 - _Selected Top Student_
 - Strictly selected from all fresh students of NUDT in 2013 (30/1000)
 
-```
 
 ### PUBLICATIONS
 
-```PUBLICATIONS
 A full list of my publications can be found on my Google Scholar homepage [here](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=WAxqU1MAAAAJ).
 
 1. Taihua Shao, Fei Cai, Honghui Chen, Maarten de Rijke: Length-adaptive Neural Network for Answer Selection[C]. SIGIR 2019: 869-872 (2019) (EI Compendex: 20194307587037)
@@ -45,21 +47,21 @@ A full list of my publications can be found on my Google Scholar homepage [here]
 3. Taihua Shao, Xiaoyan Kui, Pengfei Zhang, et al. Collaborative Learning for Answer Selection in Question Answering[J]. IEEE Access 7: 7337-7347 (2018) (WOS: 000456910800001)
 4. Taihua Shao, Honghui Chen, Wanyu Chen. Query Auto-Completion Based on Word2Vec Semantic Similarity[C]. Journal of Physics: Conference Series. IOP Publishing 1004: 12-18 (2018) (EI Compendex: 20182305274874)
 
-```
+
 
 ### AWARDS AND HONORS
 
-```AWARDS
+
 1. IR'19 / SIGIR Student Travel Grants with $1,000.00 offered by ACM SIGIR, 2019
 2. Honorable Mention Award in Mathematical Contest in Modeling, 2015
 3. Outstanding Student Award in College of Systems Engineering, NUDT, 2014
 4. Third Prize in The Chinese College Mathematics Competitions, 2014
 
-```
+
 
 ### PROJECTS
 
-```PROJECTS
+
 1. **Research on Query Auto-completion in Information Retrieval**	Nov 2015 – Nov 2016
 - **Role**: Project Leader
 - **Class**: National College Student Innovation Training Project of China
@@ -68,13 +70,12 @@ A full list of my publications can be found on my Google Scholar homepage [here]
 - **Role**: Core Project Member
 - **Class**: Graduate Student Research and Innovation Project of Hunan Province, China
 
-```
+
 
 ### CORE SKILLS
 
-```SKILL
+
 - **Language:** English (IELTS: 7.0, CET-4: 588, CET-6: 482)
 - **Computer:** Python, C++, MATLAB, Java, LaTeX
 - **Specialty:** Basketball, Swimming, Sprint
 
-```
