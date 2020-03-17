@@ -1,18 +1,1 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Taihua's Homepage
-email: shaotaihua13@nudt.edu.cn
-description:  My name is Taihua Shao. I am a Grade 1 PhD student at the National University of Defense Technology (NUDT), Changsha, China, with a major on Information System.
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
-url: "http://secretpolice1995.github.io" # the base hostname & protocol for your site
-twitter_username: shaotaihua
-github_username:  secretpolice1995
-
-# Build settings
-markdown: kramdown
+theme: jekyll-theme-merlot
