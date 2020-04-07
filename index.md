@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Welcome to visit Taihua's blog
+title: Welcome to Taihua's blog
 ---
 
 <img src="shao.jpg" width="30%" height="30%">
