@@ -2,8 +2,8 @@
 ;(function() {
   var style1 = 'background:#4BB596;color:#ffffff;border-radius: 2px;'
   var style2 = 'color:#000000;'
-  var author = ' Taihua'
-  var github = ' https://github.com/secretpolice1995/secretpolice1995.github.io'
+  var author = ' TMaize'
+  var github = ' https://github.com/TMaize/tmaize-blog'
   var build = ' ' + blog.buildAt
   console.info('%c Theme Author %c' + author, style1, style2)
   console.info('%c Theme GitHub %c' + github, style1, style2)
