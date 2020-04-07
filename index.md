@@ -1,6 +1,6 @@
-## Welcome to Taihua's Homepage
+## Taihua's Homepage
 
-<img style="float: center;" src="shao.jpg" width="10%" height="10%">
+<div align=center><img src="shao.jpg" width="15%" height="15%"></div>
 
 My name is **Taihua Shao**. I am a first-year PhD student at the *National University of Defense Technology (NUDT)*, Changsha, China, with a major on Information System.
 
