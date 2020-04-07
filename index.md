@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: page
 title: Welcome to Taihua's blog
 ---
 
