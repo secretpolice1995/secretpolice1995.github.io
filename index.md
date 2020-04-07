@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 首页
+title: Welcome to visit Taihua's blog
 ---
 
 <img style="float: center;" src="shao.jpg" width="30%" height="30%">
