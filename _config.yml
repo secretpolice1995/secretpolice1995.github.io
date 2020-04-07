@@ -27,7 +27,7 @@ menu:
   - title: 首页
     url: /
   - title: 文章
-    url: /pages/about.html
+    url: /pages/articles.html
   - title: 归类
     url: /pages/categories.html
   - title: 搜索
