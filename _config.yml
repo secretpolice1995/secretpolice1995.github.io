@@ -33,9 +33,9 @@ menu:
   - title: 搜索
     url: /pages/search.html
   - title: 友链
-    url: /pages/links.md
+    url: /pages/links.html
   - title: 留言
-    url: /pages/chat.md
+    url: /pages/chat.html
 
 
 # 点击页面文字冒出特效,不需要请设置为false
