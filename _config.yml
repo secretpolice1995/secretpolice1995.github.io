@@ -25,7 +25,7 @@ tucaoUrl: https://support.qq.com/product/86335
 # 菜单
 menu:
   - title: 首页
-    url: /
+    url: /index.html
   - title: 文章
     url: /pages/articles.html
   - title: 归类
