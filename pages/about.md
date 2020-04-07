@@ -1,4 +1,7 @@
-## Taihua's Homepage
+---
+layout: mypost
+title: Taihua
+---
 
 <img style="float: center;" src="shao.jpg" width="30%" height="30%">
 
@@ -58,11 +61,11 @@ A full list of my publications can be found on my Google Scholar homepage [here]
 
 ### PROJECTS
 
-1. **Research on Query Auto-completion in Information Retrieval**	Nov 2015 – Nov 2016
+1. **Research on Query Auto-completion in Information Retrieval**   Nov 2015 – Nov 2016
 - **Role**: Project Leader
 - **Class**: National College Student Innovation Training Project of China
 
-2. **Research on Answer Selection in Question Answering Based on Self-attention Mechanism**	Jul 2019 – Present
+2. **Research on Answer Selection in Question Answering Based on Self-attention Mechanism** Jul 2019 – Present
 - **Role**: Core Project Member
 - **Class**: Graduate Student Research and Innovation Project of Hunan Province, China
 
