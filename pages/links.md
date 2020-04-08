@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: homepage
 title: 友情链接
 ---
 
@@ -19,3 +19,4 @@ title: 友情链接
   </li>
   {%- endfor %}
 </ul>
+

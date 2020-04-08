@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: homepage
 title: 个人主页
 ---
 
