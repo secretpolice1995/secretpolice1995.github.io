@@ -20,7 +20,7 @@ domainUrl: 'https://secretpolice1995.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://support.qq.com/product/142217
 
 # 菜单
 menu:
@@ -61,6 +61,10 @@ links:
     url: http://blog.tmaize.net
   - title: 文科中的技术宅
     url: https://www.townwang.com
+  - title: 阮一峰的网络日志
+    url: http://www.ruanyifeng.com/blog
+  - title: 菜鸟教程
+    url: https://www.runoob.com
   - title: 老殁|殁漂遥
     url: https://www.mpyit.com
   - title: 吾爱分享
@@ -68,6 +72,6 @@ links:
   - title: 乌云资源
     url: http://www.wuyunzy.cn
   - title: 胡萝卜周
-    url: http://www.carrotchou.blog/
+    url: http://www.carrotchou.blog
   - title: AMiner
-    url: https://www.aminer.cn/
+    url: https://www.aminer.cn   
