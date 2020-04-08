@@ -5,7 +5,7 @@ title: Taihua's Blog
 description: Taihua的个人博客
 keywords: Taihua,Blog,Java,Html,JavaScript
 author: Taihua
-footerText: 'Copyright ©2020'
+footerText: 'Copyright ©2020 by Taihua'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
