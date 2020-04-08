@@ -36,7 +36,7 @@ Dundee, UK, Feb. 2016 - Jul. 2016
 - Funded by the Outstanding Undergraduate International Exchange Program of China Scholarship Council 
 
 **2. Qian Xuesen Class of Innovation and Development**  
-Changsha, China, Sep. 2013. – Jun. 2017
+Changsha, China, Sep. 2013 – Jun. 2017
 - _Selected Top Student_
 - Strictly selected from all fresh students of NUDT in 2013 (30/1000)
 
