@@ -33,7 +33,7 @@ menu:
   - title: 搜索
     url: /pages/search.html
   - title: 友链
-    url: /pages/links.html
+    url: /pages/links.md
   - title: 留言
     url: /pages/chat.html
 
@@ -59,3 +59,5 @@ extMath: true
 links:
   - title: TMaize的个人博客
     url: http://blog.tmaize.net
+  - title: 文科中的技术宅
+    url: https://www.townwang.com
