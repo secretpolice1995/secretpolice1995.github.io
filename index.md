@@ -14,14 +14,14 @@ During the master's period, my research topic mainly focuses on *natural languag
 ### EDUCATION
 
 **1. National University of Defense Technology**  
-Changsha, China, Sep 2017 – Dec 2019
+Changsha, China, Sep. 2017 – Dec. 2019
 - _Master of Engineering_
 - **Major:** Management Science and Engineering
 - **Institution:** College of Systems Engineering
 - **Postgraduate Dissertation:** Self-attention Mechanism Based Answer Selection in Question Answering System
 
 **2. National University of Defense Technology**  
-Changsha, China, Sep 2013 – Jun 2017
+Changsha, China, Sep. 2013 – Jun. 2017
 - _Bachelor of Engineering_
 - **Major:** Information System Engineering
 - **Institution:** College of Systems Engineering
@@ -31,12 +31,12 @@ Changsha, China, Sep 2013 – Jun 2017
 ### EXPERIENCE
 
 **1. University of Dundee**  
-Dundee, UK, Feb 2016 - Jul 2016
+Dundee, UK, Feb. 2016 - Jul. 2016
 - _International Exchange Student_
 - Funded by the Outstanding Undergraduate International Exchange Program of China Scholarship Council 
 
 **2. Qian Xuesen Class of Innovation and Development**  
-Changsha, China, Sep 2013 – Jun 2017
+Changsha, China, Sep. 2013. – Jun. 2017
 - _Selected Top Student_
 - Strictly selected from all fresh students of NUDT in 2013 (30/1000)
 
@@ -61,11 +61,11 @@ A full list of my publications can be found on my Google Scholar homepage [here]
 
 ### PROJECTS
 
-**1. Research on Query Auto-completion in Information Retrieval**   Nov 2015 – Nov 2016
+**1. Research on Query Auto-completion in Information Retrieval**   Nov. 2015 – Nov. 2016
 - **Role**: Project Leader
 - **Class**: National College Student Innovation Training Project of China
 
-**2. Research on Answer Selection in Question Answering Based on Self-attention Mechanism** Jul 2019 – Present
+**2. Research on Answer Selection in Question Answering Based on Self-attention Mechanism** Jul. 2019 – Present
 - **Role**: Core Project Member
 - **Class**: Graduate Student Research and Innovation Project of Hunan Province, China
 
