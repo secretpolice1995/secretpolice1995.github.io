@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Python使用Scikit-Learn库
+title: Python使用Scikit-Learn库进行机器学习
 categories: [Python]
 ---
 
