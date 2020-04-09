@@ -187,3 +187,8 @@ plt.close()            # 关闭窗口
 
 <br/>
 内容来源：[DataCamp](https://www.datacamp.com/)
+<br/>
+<br/>
+<br/>
+**（注：博文仅供个人学习记录，如有侵权请到[留言板](chat.html)联系删除！）**
+<br/>
