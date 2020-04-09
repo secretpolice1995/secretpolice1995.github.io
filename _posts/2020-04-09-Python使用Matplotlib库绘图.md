@@ -190,5 +190,5 @@ plt.close()            # 关闭窗口
 <br/>
 <br/>
 <br/>
-**（注：博文仅供个人学习记录，如有侵权请到[留言板](chat.html)联系删除！）**
+**（注：博文仅供个人学习记录，如有侵权请到[留言板](https://secretpolice1995.github.io/pages/chat.html)联系删除！）**
 <br/>
