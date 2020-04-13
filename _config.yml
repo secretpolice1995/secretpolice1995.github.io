@@ -49,6 +49,8 @@ extAdsense: false
 # _includes/ext-adsense.html 里面修改为自己的配置
 extMTA: true
 
+extTA: true
+
 # 百度收录自动推送,不需要请设置为false
 extBaidu: false
 
