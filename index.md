@@ -30,12 +30,17 @@ Changsha, China, Sep. 2013 – Jun. 2017
 
 ### EXPERIENCE
 
-**1. University of Dundee**  
+**1. SIGIR 2019**   
+Paris, France, Jul. 2019
+- _First author_	
+- Co-author with Prof. Maarten de Rijke and Assoc Prof. Fei Cai
+
+**2. University of Dundee**  
 Dundee, UK, Feb. 2016 - Jul. 2016
 - _International Exchange Student_
 - Funded by the Outstanding Undergraduate International Exchange Program of China Scholarship Council 
 
-**2. Qian Xuesen Class of Innovation and Development**  
+**3. Qian Xuesen Class of Innovation and Development**  
 Changsha, China, Sep. 2013 – Jun. 2017
 - _Selected Top Student_
 - Strictly selected from all fresh students of NUDT in 2013 (30/1000)
@@ -55,7 +60,7 @@ A full list of my publications can be found on my Google Scholar homepage [here]
 
 1. IR'19 / SIGIR Student Travel Grants with $1,000.00 offered by ACM SIGIR, 2019
 2. Honorable Mention Award in Mathematical Contest in Modeling, 2015
-3. Outstanding Student Award in College of Systems Engineering, NUDT, 2014
+3. Outstanding Student Award in College of Science, NUDT, 2015
 4. Third Prize in The Chinese College Mathematics Competitions, 2014
 
 
