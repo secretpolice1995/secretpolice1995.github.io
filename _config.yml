@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: Taihua's Blog
-description: Taihua的个人博客
-keywords: Taihua,Blog,Java,Html,JavaScript
-author: Taihua
-footerText: 'Copyright ©2020 by Taihua'
+title: SecretPolice1995's Blog
+description: SecretPolice1995的个人博客
+keywords: SecretPolice1995,Blog,Java,Html,JavaScript
+author: SecretPolice1995
+footerText: 'Copyright ©2020 by SecretPolice1995'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
